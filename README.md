@@ -1,1 +1,1 @@
-# Crew-AI-Job-Application-Optimizer
+# AI-Auto-Job-Search

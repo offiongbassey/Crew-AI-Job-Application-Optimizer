@@ -1,0 +1,57 @@
+[
+    {
+        "id": "a3f71d8a-6b37-4f5e-bf67-8a41225430fd",
+        "title": "Data Scientist 1 Year Experience",
+        "company": "Indeed",
+        "country": "USA",
+        "location": "Remote",
+        "remote": true,
+        "tools": ["Python", "R", "SQL", "Machine Learning", "Data Visualization", "Pandas", "Numpy", "Statistics", "Communication Skills"],
+        "description": "As a Data Scientist with 1 year of experience, you will work on various data-driven projects where you will analyze complex datasets to derive actionable insights. Your responsibilities will include developing machine learning models, conducting A/B tests, and collaborating with cross-functional teams to understand business problems and provide data-supported solutions.",
+        "link": "https://www.indeed.com/q-data-scientist-1-year-experience-l-remote-jobs.html"
+    },
+    {
+        "id": "da8d9e7e-bb50-48dd-89a9-7115263a0e68",
+        "title": "Junior Data Scientist",
+        "company": "Remote Rocketship",
+        "country": "USA",
+        "location": "Remote",
+        "remote": true,
+        "tools": ["Python", "R", "Data Analytics", "SQL", "Machine Learning", "Visualization Tools", "Git", "Big Data", "Team Collaboration"],
+        "description": "In the role of Junior Data Scientist, your primary tasks will involve processing and analyzing large datasets while conducting exploratory data analysis to uncover trends and patterns. You'll work closely with senior data scientists to enhance your skills and knowledge of various statistical techniques and contribute to the team's success by assisting in the implementation of machine learning algorithms.",
+        "link": "https://www.remoterocketship.com/jobs/junior-data-scientist"
+    },
+    {
+        "id": "8c7ea6be-d4b5-4e91-bfa2-1b5ef7a168f0",
+        "title": "Data Scientist (Remote)",
+        "company": "ZipRecruiter",
+        "country": "USA",
+        "location": "Remote",
+        "remote": true,
+        "tools": ["Python", "R", "Data Analysis", "Tableau", "SQL", "Machine Learning", "Git", "Statistical Modeling", "Presentation Skills"],
+        "description": "As a remote Data Scientist, you'll be responsible for leveraging data analytics to inform strategic decisions within the company. Key responsibilities include building predictive models, conducting data mining, and optimizing existing processes to enhance business outcomes. This role includes frequent collaboration with product managers and other stakeholders to ensure data-derived insights align with business goals.",
+        "link": "https://www.ziprecruiter.com/Jobs/Remote-Data-Scientist/-in-California"
+    },
+    {
+        "id": "9619fc38-e5d2-4fee-be73-24c97b69d865",
+        "title": "Entry-Level Data Science Position",
+        "company": "LinkedIn",
+        "country": "USA",
+        "location": "Remote",
+        "remote": true,
+        "tools": ["Python", "SQL", "Statistics", "Machine Learning", "Data Wrangling", "Data Visualization", "R", "Communication", "Teamwork"],
+        "description": "In this entry-level position, you will assist in collecting and analyzing data to help stakeholders make informed decisions. The job will involve collaborating with senior data scientists and participating in various projects that help reinforce your technical skills while gaining exposure to real-world applications of data science.",
+        "link": "https://www.linkedin.com/jobs/remote-data-scientist-jobs"
+    },
+    {
+        "id": "e6b6f39b-590c-43c1-aa76-311d8fbd5444",
+        "title": "Remote Data Scientist Intern",
+        "company": "Remote.co",
+        "country": "USA",
+        "location": "Remote",
+        "remote": true,
+        "tools": ["Python", "Data Science", "R", "Machine Learning", "Data Exploration", "SQL", "Visualization", "Collaboration Tools", "Critical Thinking"],
+        "description": "As a Remote Data Scientist Intern, you will work directly under experienced data scientists to help with various analytical projects. The role offers an invaluable opportunity to learn data processing, visualization, and statistical analysis as you contribute meaningfully to team objectives through support with data-related tasks.",
+        "link": "https://remote.co/remote-jobs/data-science"
+    }
+]
